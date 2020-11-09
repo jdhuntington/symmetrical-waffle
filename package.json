@@ -1,0 +1,19 @@
+{
+  "name": "@davis-decibel/symmetrical-waffle",
+  "version": "1.0.1",
+  "description": "empty npm package for testing publishing workflows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdhuntington/symmetrical-waffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdhuntington/symmetrical-waffle/issues"
+  },
+  "homepage": "https://github.com/jdhuntington/symmetrical-waffle#readme"
+}
